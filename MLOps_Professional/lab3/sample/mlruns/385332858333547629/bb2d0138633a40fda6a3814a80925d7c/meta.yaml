@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab3/sample/mlruns/385332858333547629/bb2d0138633a40fda6a3814a80925d7c/artifacts
+end_time: 1704749540649
+entry_point_name: ''
+experiment_id: '385332858333547629'
+lifecycle_stage: active
+run_id: bb2d0138633a40fda6a3814a80925d7c
+run_name: treasured-midge-225
+run_uuid: bb2d0138633a40fda6a3814a80925d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704749540595
+status: 3
+tags: []
+user_id: ubuntu

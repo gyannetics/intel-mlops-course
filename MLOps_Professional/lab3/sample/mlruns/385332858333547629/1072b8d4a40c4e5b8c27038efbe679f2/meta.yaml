@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab3/sample/mlruns/385332858333547629/1072b8d4a40c4e5b8c27038efbe679f2/artifacts
+end_time: 1704750381155
+entry_point_name: ''
+experiment_id: '385332858333547629'
+lifecycle_stage: active
+run_id: 1072b8d4a40c4e5b8c27038efbe679f2
+run_name: dazzling-shrew-153
+run_uuid: 1072b8d4a40c4e5b8c27038efbe679f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704750373717
+status: 3
+tags: []
+user_id: ubuntu

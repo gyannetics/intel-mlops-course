@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab3/sample/mlruns/385332858333547629/7f24ead824cc4176afffe4e26623fd58/artifacts
+end_time: 1704750108805
+entry_point_name: ''
+experiment_id: '385332858333547629'
+lifecycle_stage: active
+run_id: 7f24ead824cc4176afffe4e26623fd58
+run_name: smiling-swan-709
+run_uuid: 7f24ead824cc4176afffe4e26623fd58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704750101258
+status: 3
+tags: []
+user_id: ubuntu

@@ -31,6 +31,7 @@ dsize = FLAGS.size
 
 # Generating our data
 start = time.time()
+# start = time.perf_counter()
 logger.info('Generating data with the size %d', dsize)
 np.random.seed(1)
 manufacturer_list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']

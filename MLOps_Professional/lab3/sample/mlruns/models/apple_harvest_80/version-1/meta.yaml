@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1704750636735
+current_stage: Production
+description: ''
+last_updated_timestamp: 1704750719585
+name: apple_harvest_80
+run_id: 1072b8d4a40c4e5b8c27038efbe679f2
+run_link: ''
+source: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab3/sample/mlruns/385332858333547629/1072b8d4a40c4e5b8c27038efbe679f2/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

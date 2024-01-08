@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab3/sample/mlruns/385332858333547629/5027befa632c448f9cf537461b4431f9/artifacts
+end_time: 1704749624309
+entry_point_name: ''
+experiment_id: '385332858333547629'
+lifecycle_stage: active
+run_id: 5027befa632c448f9cf537461b4431f9
+run_name: painted-stag-670
+run_uuid: 5027befa632c448f9cf537461b4431f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704749624274
+status: 3
+tags: []
+user_id: ubuntu
