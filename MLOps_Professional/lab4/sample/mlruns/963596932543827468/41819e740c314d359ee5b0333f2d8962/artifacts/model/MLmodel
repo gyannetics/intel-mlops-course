@@ -1,0 +1,35 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.13
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 1.7.6
+mlflow_version: 2.6.0
+model_uuid: aae8248238bf45459067f2d4863f0369
+run_id: 41819e740c314d359ee5b0333f2d8962
+signature:
+  inputs: '[{"type": "double", "name": "Age"}, {"type": "double", "name": "Temperature"},
+    {"type": "double", "name": "Last_Maintenance"}, {"type": "double", "name": "Motor_Current"},
+    {"type": "long", "name": "Number_Repairs"}, {"type": "long", "name": "Manufacturer_A"},
+    {"type": "long", "name": "Manufacturer_B"}, {"type": "long", "name": "Manufacturer_C"},
+    {"type": "long", "name": "Manufacturer_D"}, {"type": "long", "name": "Manufacturer_E"},
+    {"type": "long", "name": "Manufacturer_F"}, {"type": "long", "name": "Manufacturer_G"},
+    {"type": "long", "name": "Manufacturer_H"}, {"type": "long", "name": "Manufacturer_I"},
+    {"type": "long", "name": "Manufacturer_J"}, {"type": "long", "name": "Generation_Gen1"},
+    {"type": "long", "name": "Generation_Gen2"}, {"type": "long", "name": "Generation_Gen3"},
+    {"type": "long", "name": "Generation_Gen4"}, {"type": "long", "name": "Lubrication_LTA"},
+    {"type": "long", "name": "Lubrication_LTB"}, {"type": "long", "name": "Lubrication_LTC"},
+    {"type": "long", "name": "Product_Assignment_Gala"}, {"type": "long", "name":
+    "Product_Assignment_Golden_Delicious"}, {"type": "long", "name": "Product_Assignment_Granny_Smith"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-01-09 01:42:10.331482'

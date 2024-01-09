@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab4/sample/mlruns/963596932543827468/41819e740c314d359ee5b0333f2d8962/artifacts
+end_time: 1704764531883
+entry_point_name: ''
+experiment_id: '963596932543827468'
+lifecycle_stage: active
+run_id: 41819e740c314d359ee5b0333f2d8962
+run_name: ambitious-snail-611
+run_uuid: 41819e740c314d359ee5b0333f2d8962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704764523655
+status: 3
+tags: []
+user_id: ubuntu
