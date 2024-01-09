@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab4/sample/mlruns/963596932543827468/ffafd9f2c336440cbb5717e78e2eb091/artifacts
+end_time: 1704781528994
+entry_point_name: ''
+experiment_id: '963596932543827468'
+lifecycle_stage: active
+run_id: ffafd9f2c336440cbb5717e78e2eb091
+run_name: unequaled-turtle-812
+run_uuid: ffafd9f2c336440cbb5717e78e2eb091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704781521350
+status: 3
+tags: []
+user_id: ubuntu

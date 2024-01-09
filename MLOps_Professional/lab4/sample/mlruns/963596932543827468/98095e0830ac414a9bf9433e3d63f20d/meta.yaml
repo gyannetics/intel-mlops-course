@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab4/sample/mlruns/963596932543827468/98095e0830ac414a9bf9433e3d63f20d/artifacts
+end_time: 1704781341366
+entry_point_name: ''
+experiment_id: '963596932543827468'
+lifecycle_stage: active
+run_id: 98095e0830ac414a9bf9433e3d63f20d
+run_name: nosy-midge-510
+run_uuid: 98095e0830ac414a9bf9433e3d63f20d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704781333822
+status: 3
+tags: []
+user_id: ubuntu

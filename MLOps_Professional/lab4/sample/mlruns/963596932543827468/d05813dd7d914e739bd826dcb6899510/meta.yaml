@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/intel-mlops-course/MLOps_Professional/lab4/sample/mlruns/963596932543827468/d05813dd7d914e739bd826dcb6899510/artifacts
+end_time: 1704781545993
+entry_point_name: ''
+experiment_id: '963596932543827468'
+lifecycle_stage: active
+run_id: d05813dd7d914e739bd826dcb6899510
+run_name: brawny-mare-981
+run_uuid: d05813dd7d914e739bd826dcb6899510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704781537988
+status: 3
+tags: []
+user_id: ubuntu
